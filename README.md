@@ -1,4 +1,4 @@
-I am a final-year Ph.D. candidate in Robotics at Nankai University, supervised by [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm) and [Prof. Xiao Liang](https://ai.nankai.edu.cn/info/1034/4844.htm). Before this, I completed my Bachelor's degree in Automation at Nankai University in 2021.
+I am a fourth-year Ph.D. candidate in Robotics at Nankai University, supervised by [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm) and [Prof. Xiao Liang](https://ai.nankai.edu.cn/info/1034/4844.htm). Before this, I completed my Bachelor's degree in Automation at Nankai University in 2021.
 
 - 🔭 I am currently doing research on aerial manipulation, motion planning, and task and motion planning (TAMP). I focus on developing whole-body motion planning algorithm to generate safe and feasible trajectories for aerial manipulators in constrained environments.
 - ⚽️ I am interested in badminton, football, and frisbee.
